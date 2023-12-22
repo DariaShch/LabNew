@@ -1,10 +1,4 @@
----
-title: "Практическая работа 1"
-format:
-  md:
-    output-file: README.md
-editor: visual
----
+
 
 ## Цель работы
 
